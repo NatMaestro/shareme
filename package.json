@@ -18,11 +18,13 @@
     "@sanity/icons": "^2.1.0",
     "@sanity/ui": "^1.2.0",
     "@sanity/vision": "^3.14.5",
+    "auth-google": "^0.0.7",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-is": "^18.2.0",
     "sanity": "^3.14.5",
-    "styled-components": "^5.3.9"
+    "styled-components": "^5.3.9",
+    "backend-auth": "file:../../../shareme_backend/src/auth"
   },
   "devDependencies": {
     "@sanity/eslint-config-studio": "^3.0.0",
